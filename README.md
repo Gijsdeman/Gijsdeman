@@ -10,6 +10,11 @@ Below, some of my recent activity on media platforms can be found.
 
 #### StackExchange
 <!-- TEX:START -->
+- [Answer by G. de Man for Graph a function with \frac](https://tex.stackexchange.com/questions/554838/graph-a-function-with-frac/554839#554839)
+- [Answer by G. de Man for TikZ won't show the good curve?](https://tex.stackexchange.com/questions/554828/tikz-wont-show-the-good-curve/554830#554830)
+- [Answer by G. de Man for Table of Content for too many sections](https://tex.stackexchange.com/questions/554576/table-of-content-for-too-many-sections/554577#554577)
+- [Answer by G. de Man for Defining a new command using a conditional](https://tex.stackexchange.com/questions/554444/defining-a-new-command-using-a-conditional/554453#554453)
+- [Answer by G. de Man for Add contents line in principal TOC but not in chapter TOC](https://tex.stackexchange.com/questions/554424/add-contents-line-in-principal-toc-but-not-in-chapter-toc/554447#554447)
 <!-- TEX:END -->
 
 #### Stackoverflow
