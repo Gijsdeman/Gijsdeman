@@ -4,13 +4,17 @@ I am a third year Bachelor's Computer Science student at the [Eindhoven Universi
 
 I am quite busy with personal development, and hence have some personal (but also university-related) projects that are available on this GitHub. An example of such an project is [my website][website]. Furthermore, I am a hard-working person and always try to get the best out of myself. I don't like cutting corners and strive to deliver the absolute best I can. I have a clear vision of what I want and I'm not faced by a challenge.
 
-### GitHub statistics and activity
+### Social media activty
 
-Below you can find some of my GitHub statistics and recent activity in repositories I am active in.
+Below, some of my recent activity on media platforms can be found.
 
-<!-- LINKEDIN-LIST:START -->
-<!-- LINKEDIN-LIST:END -->
+#### StackExchange
+<!-- STACKEXCHANGE-LIST:START -->
+<!-- STACKEXCHANGE-LIST:END -->
 
+#### Stackoverflow
+<!-- STACKOVERFLOW-LIST:START -->
+<!-- STACKOVERFLOW-LIST:END -->
 
 [![Gijs' github stats](https://github-readme-stats.vercel.app/api?username=gijsdeman)](https://github.com/gijsdeman/github-readme-stats)
 
