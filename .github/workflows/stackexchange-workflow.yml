@@ -14,4 +14,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "TEX"
+          max_post_count: 3
           feed_list: "https://tex.stackexchange.com/feeds/user/198885"
