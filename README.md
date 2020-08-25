@@ -11,7 +11,7 @@ I am a third year Bachelor's Computer Science student at the [Eindhoven Universi
 
 I am quite busy with personal development, and hence have some personal (but also university-related) projects that are available on this GitHub. An example of such an project is [my website][website]. Furthermore, I am a hard-working person and always try to get the best out of myself. I don't like cutting corners and strive to deliver the absolute best I can. I have a clear vision of what I want and I'm not faced by a challenge. Some of my 'recent' activity on media platforms can be found below.
 
-#### StackExchange
+#### Tex Stackexchange
 <!-- TEX:START -->
 - [Answer by G. de Man for Graph a function with \frac](https://tex.stackexchange.com/questions/554838/graph-a-function-with-frac/554839#554839)
 - [Answer by G. de Man for TikZ won't show the good curve?](https://tex.stackexchange.com/questions/554828/tikz-wont-show-the-good-curve/554830#554830)
