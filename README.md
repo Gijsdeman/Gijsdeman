@@ -14,6 +14,11 @@ Below, some of my recent activity on media platforms can be found.
 
 #### Stackoverflow
 <!-- STACK:START -->
+- [Cannot delete external JAR file after loading in Image [duplicate]](https://stackoverflow.com/questions/63012824/cannot-delete-external-jar-file-after-loading-in-image)
+- [CSS link styling priority](https://stackoverflow.com/questions/43761006/css-link-styling-priority)
+- [How to use multiple forms without losing variables values?](https://stackoverflow.com/questions/43736692/how-to-use-multiple-forms-without-losing-variables-values)
+- [Function does not give value of variables](https://stackoverflow.com/questions/40863710/function-does-not-give-value-of-variables)
+- [How do I make these buttons stay activated after clicking on them?](https://stackoverflow.com/questions/40725906/how-do-i-make-these-buttons-stay-activated-after-clicking-on-them)
 <!-- STACK:END -->
 
 [![Gijs' github stats](https://github-readme-stats.vercel.app/api?username=gijsdeman&count_private=true)](https://github.com/gijsdeman/github-readme-stats)
