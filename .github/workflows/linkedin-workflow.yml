@@ -1,4 +1,4 @@
-name: Latest GitHub activity
+name: Latest LinkedIn activity
 on:
   schedule:
     # Runs every hour

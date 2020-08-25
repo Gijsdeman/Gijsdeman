@@ -8,6 +8,9 @@ I am quite busy with personal development, and hence have some personal (but als
 
 Below you can find some of my GitHub statistics and recent activity in repositories I am active in.
 
+<!-- LINKEDIN-LIST:START -->
+<!-- LINKEDIN-LIST:END -->
+
 
 [![Gijs' github stats](https://github-readme-stats.vercel.app/api?username=gijsdeman)](https://github.com/gijsdeman/github-readme-stats)
 
