@@ -9,12 +9,12 @@ I am quite busy with personal development, and hence have some personal (but als
 Below, some of my recent activity on media platforms can be found.
 
 #### StackExchange
-<!-- STACKEXCHANGE-LIST:START -->
-<!-- STACKEXCHANGE-LIST:END -->
+<!-- TEX:START -->
+<!-- TEX:END -->
 
 #### Stackoverflow
-<!-- STACKOVERFLOW-LIST:START -->
-<!-- STACKOVERFLOW-LIST:END -->
+<!-- STACK:START -->
+<!-- STACK:END -->
 
 [![Gijs' github stats](https://github-readme-stats.vercel.app/api?username=gijsdeman&count_private=true)](https://github.com/gijsdeman/github-readme-stats)
 
