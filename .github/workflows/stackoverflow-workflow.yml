@@ -13,4 +13,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
+          comment_tage_name: "STACK"        
           feed_list: "https://stackoverflow.com/feeds/user/5903680"
