@@ -16,7 +16,9 @@ Below, some of my recent activity on media platforms can be found.
 <!-- STACKOVERFLOW-LIST:START -->
 <!-- STACKOVERFLOW-LIST:END -->
 
-[![Gijs' github stats](https://github-readme-stats.vercel.app/api?username=gijsdeman)](https://github.com/gijsdeman/github-readme-stats)
+[![Gijs' github stats](https://github-readme-stats.vercel.app/api?username=gijsdeman&count_private=true)](https://github.com/gijsdeman/github-readme-stats)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 [tue]: https://www.tue.nl/en/
 [GEWIS]: https://gewis.nl
